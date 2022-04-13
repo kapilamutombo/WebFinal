@@ -1,0 +1,96 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-content: center;
+   background-color:whitesmoke;
+}
+.Header{
+    top: 5px;
+    background-color: rgb(243, 174, 174); 
+    border: solid black;
+    width: 100%;
+    text-align: left;
+
+}
+.Mainbody{
+    
+    text-align: center;
+    align-content: center;
+    position:relative;
+    height: auto;
+    width: 100%; 
+}
+#Footer{
+    
+    width: 100%;
+    text-align: center;
+    background-color: lightcoral;
+    top: 125%;
+    font-style: italic;
+    border: solid black;
+
+ position:absolute;
+   
+}
+
+  Div{
+
+    width: 40%;
+    margin: 1%;  
+    position: relative;
+     
+  }
+
+#left{
+    width: 47%;
+    position: absolute;
+    left: 50%;
+    height: 100%;
+    top: 30%;
+
+}
+#Right{
+width: 49%;
+height: 100%;
+position:absolute;
+top: 30%;
+
+
+}
+.tableauPlaceholder{
+    height: 150%;
+    right: 1%;
+}
+#viz1649362281633{
+    
+    width:50%;
+    height: 100%;
+    
+}
+#viz1649362760391{
+   
+    width:50%;
+    height: 100%;
+}
+#viz1649362074854{
+    
+    width:50%;
+    height: 100%;
+}
+#viz1649362796913{
+top: 2%;
+    width:50%;
+    height: 100%;   
+}
+p{
+
+    font-size: small;
+    font-weight: bold;
+    
+}
+.Upper{
+
+    border: solid black;
+    height: 40%;
+    width: 100%;
+    
+}
